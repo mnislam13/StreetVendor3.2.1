@@ -1,4 +1,4 @@
-# StreetVendor3.2.1
+# Street Vendors
 An online marketplace for street vendors with secured real-time position tracking and real-time chat system. 
 
 ASP.NET Core MVC 5 and Entity Framework based web application with the implementation of google maps javascript API and signalR.  
