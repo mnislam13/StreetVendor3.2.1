@@ -7,6 +7,10 @@
 ## Development tools:
 - ASP.NET Core MVC 5
 - Entity Framework
+- C#
+- Javascript
+- Azure database
+- SQL
 - Google Maps Javascript API
 - SignalR
 
